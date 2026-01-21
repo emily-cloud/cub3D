@@ -39,6 +39,29 @@ make
 - Mouse support for looking around
 - Multi-textured walls
 
+
+## 3D view game screenshot
+
+These frames highlight how the raycasting engine handles varied wall textures, lighting transitions, and patterned walls.
+<p align="center">
+  <img src="https://github.com/emily-cloud/cub3D/blob/main/cub3d%20screenshot/Weixin%20Image_20260121151237_49_2.jpg" 
+       alt="3D Arena" width="75%">
+</p>
+<p align="center"><em>Harry Potter Texture</em></p>
+
+<p align="center">
+  <img src="https://github.com/emily-cloud/cub3D/blob/main/cub3d%20screenshot/Weixin%20Image_20260121151423_52_2.jpg" 
+       alt="3D Arena" width="75%">
+</p>
+<p align="center"><em>Chinese New Year Texture</em></p>
+
+<p align="center">
+  <img src="https://github.com/emily-cloud/cub3D/blob/main/cub3d%20screenshot/Weixin%20Image_20260121151453_53_2.jpg" 
+       alt="3D Arena" width="75%">
+</p>
+<p align="center"><em>Wolfenstein Texture</em></p>
+
+
 ## Resources
 
 - `man 3 mlx`
